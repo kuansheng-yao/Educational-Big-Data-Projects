@@ -2,7 +2,7 @@
 
 ### Department: 公領系 
 ### Name: 姚貫升
-### Instructor: 蔡芸琤教授
+### Instructor: 科技系蔡芸琤教授
 ### Assistant: 許家瑋
 
 ## 店鋪銷售分析
